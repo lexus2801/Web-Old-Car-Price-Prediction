@@ -23,9 +23,9 @@ Website demo môn học Machine Learning dự đoán giá xe hơi đã qua sử 
 <li> Trong thư mục saved_var copy tập tin grid_search_randforestRegressor và trong thư mục models copy tập tin data_to_fit_transform.pkl.</li>
 <li> Sau đó truy cập vào \web_app\app\models và dán những file đã copy vào trong thư mục này.</li>
 <li> Bật terminal và truy cập đến /web_app/app và gõ lệnh python index.py</li>
-<li> <b>Lưu ý:</b> Phải cài đặt Flask để chạy web python</li>
 <li> Sau đó server sẽ hoạt động, mở trình duyệt và truy cập vào đường dẫn http://127.0.0.1:5000/ để sử dụng website.</li>
 <li> Chọn các giá trị hoặc nhập vào các ô sau đó bấm nút dự đoán hệ thống sẽ tín toán và trả về kết quả dự đoán.</li>
+<b>Lưu ý:</b> Phải cài đặt Flask để chạy web python
 </ol>
 <h2> Thành viên </h2>
 <ol>
