@@ -1,6 +1,6 @@
 # Web-Old-Car-Price-Prediction
 <div>
-<h1>Dự đoán giá xe hơi củ bằng kiến thức học Machine Learning </h1>
+<h1>Machine Learning </h1>
   <h2> Python</h2>
 <img src='https://i0.wp.com/tinkercademy.com/wp-content/uploads/2018/04/python-icon.png?ssl=1' width="48" height="42"/>
 </div>
